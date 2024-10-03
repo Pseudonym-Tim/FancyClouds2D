@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "fancyclouds2d",
+    "name": "FancyClouds2D",
+    "authors": [
+        "Pseudonym_Tim"
+    ],
+    "description": "Replaces 3D clouds with dynamic, realistic 2D skybox clouds that react to weather conditions!",
+    "version": "1.1.0",
+    "side": "client",
+    "dependencies": {
+        "game": ""
+    }
+}
